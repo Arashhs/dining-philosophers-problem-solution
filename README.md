@@ -1,4 +1,4 @@
 # dining-philosophers-problem-solution
 dining philosophers problem solution - implemented in python. No starvation and deadlock guaranteed
 
-Written for my OS Lab
+I've written this for my OS Lab
